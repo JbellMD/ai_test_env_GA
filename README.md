@@ -24,8 +24,8 @@ A comprehensive suite of generative AI models and tools for exploring and experi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/generative-ai-environment.git
-   cd generative-ai-environment
+   git clone https://github.com/JbellMD/ai_test_env_GA.git
+   cd ai_test_env_GA
 Set up the environment:
 bash
 CopyInsert
